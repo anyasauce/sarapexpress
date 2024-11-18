@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sarapexpress/static/css/main.98284a56.css",
-    "main.js": "/sarapexpress/static/js/main.6a9f974b.js",
-    "static/js/453.f15a12cb.chunk.js": "/sarapexpress/static/js/453.f15a12cb.chunk.js",
-    "static/media/burger.png": "/sarapexpress/static/media/burger.162cce0fa8fb70fc5e61.png",
-    "index.html": "/sarapexpress/index.html",
-    "main.98284a56.css.map": "/sarapexpress/static/css/main.98284a56.css.map",
-    "main.6a9f974b.js.map": "/sarapexpress/static/js/main.6a9f974b.js.map",
-    "453.f15a12cb.chunk.js.map": "/sarapexpress/static/js/453.f15a12cb.chunk.js.map"
+    "main.css": "/static/css/main.7bd62df6.css",
+    "main.js": "/static/js/main.8c912827.js",
+    "static/js/453.f15a12cb.chunk.js": "/static/js/453.f15a12cb.chunk.js",
+    "static/media/burger.png": "/static/media/burger.162cce0fa8fb70fc5e61.png",
+    "index.html": "/index.html",
+    "main.7bd62df6.css.map": "/static/css/main.7bd62df6.css.map",
+    "main.8c912827.js.map": "/static/js/main.8c912827.js.map",
+    "453.f15a12cb.chunk.js.map": "/static/js/453.f15a12cb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98284a56.css",
-    "static/js/main.6a9f974b.js"
+    "static/css/main.7bd62df6.css",
+    "static/js/main.8c912827.js"
   ]
 }

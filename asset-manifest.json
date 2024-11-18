@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sarapexpress/static/css/main.98284a56.css",
+    "main.js": "/sarapexpress/static/js/main.6a9f974b.js",
+    "static/js/453.f15a12cb.chunk.js": "/sarapexpress/static/js/453.f15a12cb.chunk.js",
+    "static/media/burger.png": "/sarapexpress/static/media/burger.162cce0fa8fb70fc5e61.png",
+    "index.html": "/sarapexpress/index.html",
+    "main.98284a56.css.map": "/sarapexpress/static/css/main.98284a56.css.map",
+    "main.6a9f974b.js.map": "/sarapexpress/static/js/main.6a9f974b.js.map",
+    "453.f15a12cb.chunk.js.map": "/sarapexpress/static/js/453.f15a12cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98284a56.css",
+    "static/js/main.6a9f974b.js"
+  ]
+}
